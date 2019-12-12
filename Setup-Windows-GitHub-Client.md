@@ -14,6 +14,6 @@
 * Add existing folder as new repository    
 ![github-client-4](images/github-client-4.png)
 
-* Create new repository upon existing folder 
+* Create new repository upon existing folder     
 ![github-client-5](images/github-client-5.png)
 
